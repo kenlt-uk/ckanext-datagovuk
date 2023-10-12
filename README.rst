@@ -21,6 +21,8 @@ Installation
    For example installing any non-Python dependencies or adding any required
    config settings.
 
+Test update
+
 To install ckanext-datagovuk:
 
 1. Activate your CKAN virtual environment, for example::
